@@ -9,7 +9,7 @@ This is an implementation of the Seurat single cell sequencing
  
  
  
- Installation instructions to install Seurat can be found here https://satijalab.org/seurat/install.html
+ Installation instructions to install Seurat can be found [here](https://satijalab.org/seurat/install.html)
  
  ![alt text](img.png)
  
